@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_b56e14961e21282d7adad05764c7b5b07f2a3320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a7493568f8eed0a3740a212c532026383723a66e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_8454f552d6069cb97f3179c51107dc30577e7be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_cc9c5be7c187759cc40ab544abeabb4c3dea6e43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-integration-1.3_80e138f78e6d2ec7a4f2a32d7d79ab082904764b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_615484f1439e3069cf22234de6538749060e3e54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_759107e9b99a02ed7996645b0eaf9f2849d764a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_e0c442502fdb3a451157fc10f9058b7a668b0968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-rules-0.5_f6ed99374fd1fd4e75ac53774993687961f42b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_994a64c75f9759df65e101e52f9da7e86f09bd7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test.espresso-espresso-idling-resource-2.2.2_661b0f7be166fc1935f6ce5999c184abe1a7f65f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-runner-0.5_d417559304342d875cbaab4b9e60d27c0c688d9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8b72968c4ec59924b4286ce8b8d71142b083ff9">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_61a98775ee2b8deee14c2b003f541b01382007b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e300364b037056b546c94a708cb7abd7d905c9cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-library-1.3_8196a8882ceee68c79249f3aa8f108398e25d3a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_361c0c8b6d4d4a4c52fe9cb72d7d517368ebd5c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b8dce413accdfe71751c2692f760b56415669e6c">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a09de417ca387ae2b8f2f2c6c5d6d02da8aadf66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_c59fd67aa410c7ad920ce5f92407513e74a2a945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-api-1.2_696d3059a86b91dbd55fed836099906eec5ee2d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ef8ddfae22c17ed73903497a6a1143332be6b913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_f2d91f61aca8e71461e486f92d18c64f7711d623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_10e3776f4bd85aceb7ed34fdd4d71f3db8dd20aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9f69e56680053a7525620cc8cb80f738858d19c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3294a4996cc338336b4a6435b60a8c147328f9f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-exposed-instrumentation-api-publish-0.5_23fc2f9b305219069412f01fcc47c4cc454b3725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e03e39d4f6ff7ff1b739babc3039e835c2a9d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_3e1f3b5d1ab4658281cd6150bdda1f3a93eb0da2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_34c74c9d4efe79138e17d202641dad3e174c4ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_f55f091e6297482856746f6afe135b2af008ef18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test.espresso-espresso-core-2.2.2_8fd24a92b209de82800ea51fee9f5701692be0f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\javawriter-2.1.1_58c45b385689cbc07a1cc0fef2c6721db0c7c76b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_876e5a436ce891d26ecbfc8ac42deb2e23b951a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_519052a17c574ef0e3170dfcd151087906a9e3d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_4bf8d2bd140bde780a7f20f558dcccaf2afdafdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Sergio\Downloads\Retorfit\Retorfit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c6170e9e35dfdc6b34f4d9d26c169db1bd5a2428\classes.dex" />
+    </item>
+
+</items>

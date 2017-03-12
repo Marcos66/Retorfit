@@ -1,0 +1,7 @@
+#Wed Mar 08 17:59:42 CET 2017
+base.0=C\:\\Users\\Sergio\\Downloads\\Retorfit\\Retorfit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_61a98775ee2b8deee14c2b003f541b01382007b7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Sergio\\Downloads\\Retorfit\\Retorfit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a09de417ca387ae2b8f2f2c6c5d6d02da8aadf66\\classes.dex
+base.1=C\:\\Users\\Sergio\\Downloads\\Retorfit\\Retorfit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a09de417ca387ae2b8f2f2c6c5d6d02da8aadf66
+file.0=C\:\\Users\\Sergio\\Downloads\\Retorfit\\Retorfit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_61a98775ee2b8deee14c2b003f541b01382007b7\\classes.dex
